@@ -4,7 +4,7 @@ It is inspired by the satire, probably not legally enforcable, GLWTPL (Good Luck
 Since it's difficult to track versions with no authorship, a UUID requirement has been added.  
 It is in LICENSE.md. Might move this off of GitHub. Later.
 
-TL;DR: remove/change credit unless mainlining ("I did NOT do that shit"), specific instance of license can be indexed by search engines.
+TL;DR: not exclusive to software (art, docs, etc.); remove/change credit unless mainlining ("I did NOT do that shit"); specific instance of license can be indexed by search engines.
 
 TW: empl*yment synonymous wording.
 
