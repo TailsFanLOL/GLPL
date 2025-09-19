@@ -1,0 +1,10 @@
+# The Good Luck Public License (GLPL)
+
+### This license is licensed under this very license recursively, with the ADDITIONAL LIABILITY to preserve the following Universally Unique IDentifier (UUID) used for tracking copies of this agreement, that shall be changed/regenerated if, and ONLY if any changes are made to this text, affecting the terms or not: b82f77f1-3048-43f2-a4a1-f11eb04198ca
+
+THE WORK THIS TEXT IS APPLIED TO (further referred to as "work") IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF FUNCTIONALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, WHICHEVER IS APPLICABLE. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, TO THE EXTENT PERMITTED BY APPLICABLE LAW
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this work, to deal with the work without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the work, and to permit persons to whom the work is furnished to do so (if applicable), under the following conditions:
+
+1. This license or a subset license/notice must be included in/with all copies of this work.
+2. NO copies of this work with changes over the threshold of originality, or ANY changes excluding branding/timestamps/medium/storage if the "thershold of originality" is undefined in the current jurisdiction and court, may be distributed with the original author's name, designation and/or contact information, and ALL (remaining) LIABILITY AND ATTRIBUTION MUST BE TRANSFERRED to the entitiy performing such changes, UNLESS INTENT TO SEND/TRANSFER THE MODIFIED WORK OR THE CHANGES THEMSELVES TO THE ORIGINAL AUTHOR IN TANGIBLE MEDIUM IS PRESENT, INCLUDING BUT NOT LIMITED TO ELECTRONIC MISSIVES AND SOURCE CONTROL SYSTEMS. This clause in it's entirety may only be applied to the extent permitted by applicable law.
